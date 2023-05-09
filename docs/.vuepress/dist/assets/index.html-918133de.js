@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"语言学习","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"方言","slug":"方言","link":"#方言","children":[]},{"level":2,"title":"韩语","slug":"韩语","link":"#韩语","children":[]}],"git":{},"filePathRelative":"README.md"}');export{e as data};
