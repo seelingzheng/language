@@ -1,3 +1,5 @@
+[toc]
+
 # 新马游（2023 国庆）
 
 ## 航班信息
@@ -30,6 +32,12 @@
  | 10-7 |      | 名称                             | 马来西亚🇲🇾   | 地址                                                                          | 链接                                | 备注   |
 
  [隐居花园酒店（美兰机场店）](https://hotel.fliggy.com/hotel_detail2.htm?spm=181.7087309.0.0.653ddef01sHt8t&searchBy=&market=0&previousChannel=&shid=60837865&city=460100&checkIn=2023-08-26&checkOut=2023-08-27&searchId=bded0a0ce6934c88aa9336997e302ea4&filterByRoomTickets=false&activityCode=&roomNum=1&aNum_1=2&cNum_1=0&sellerId=&sellerIds=&_output_charset=utf8&_input_charset=utf8)
+
+## 交通信息
+### 新加坡 🇸🇬
+#### 乘车须知
+- [地铁卡使用须知](https://www.mafengwo.cn/i/24224588.html?sys_ver=)
+- [怎么坐地铁](https://www.mafengwo.cn/i/24227951.html?sys_ver=)
 
 ## 安全须知
 
