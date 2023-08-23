@@ -38,6 +38,7 @@
 #### 乘车须知
 - [地铁卡使用须知](https://www.mafengwo.cn/i/24224588.html?sys_ver=)
 - [怎么坐地铁](https://www.mafengwo.cn/i/24227951.html?sys_ver=)
+- [各个交通公交](https://zhuanlan.zhihu.com/p/84273218)
 
 ## 安全须知
 
