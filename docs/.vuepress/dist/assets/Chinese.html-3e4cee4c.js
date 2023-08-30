@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7a308f50","path":"/pages/Chinese.html","title":"中文方言","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"四川-崇州","slug":"四川-崇州","link":"#四川-崇州","children":[]}],"git":{},"filePathRelative":"pages/Chinese.md"}');export{e as data};

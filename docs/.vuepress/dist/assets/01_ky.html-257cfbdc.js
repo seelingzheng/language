@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-066df4d4","path":"/pages/korean/topic/01_ky.html","title":"”可以“怎么说","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683595853000,"contributors":[{"name":"mirrors_gis","email":"15680800668@126.com","commits":1}]},"filePathRelative":"pages/korean/topic/01_ky.md"}');export{e as data};
