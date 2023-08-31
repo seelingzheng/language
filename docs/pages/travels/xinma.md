@@ -3,6 +3,7 @@
 ## 航班信息
 - ✓ 表示已经核定出票
 - [酷航官网](https://www.flyscoot.com/zh)
+- [亚航值机](https://www.airasia.com/)
 
 #### 郑  
 
